@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AddressBookMain {
+public class Uc4 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to Address Book");
